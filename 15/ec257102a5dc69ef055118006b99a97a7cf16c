@@ -1,0 +1,23 @@
+devtools/gradle/gradle-application-plugin/src/test/java/io/quarkus/gradle/QuarkusPluginTest.java
+  s_cda539916c0d9f::t_019a47af22f9f1 6,11,17-18,168-240,261-303
+devtools/gradle/gradle-model/src/main/java/io/quarkus/gradle/dependency/ApplicationDeploymentClasspathBuilder.java
+  s_cda539916c0d9f::t_693f545e163997 298,301,305,314-316
+devtools/gradle/gradle-model/src/main/java/io/quarkus/gradle/dependency/QuarkusComponentVariants.java
+  s_cda539916c0d9f::t_158cacee17beb9 176-183,194,229-251
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "15ec257102a5dc69ef055118006b99a97a7cf16c",
+  "prompts": {},
+  "sessions": {
+    "s_cda539916c0d9f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12375-1fdc-7011-a957-eb9ec749a317",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Rui Chen <rui@chenrui.dev>"
+    }
+  }
+}
